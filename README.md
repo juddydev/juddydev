@@ -1,7 +1,8 @@
 ### Hey! 🙋
 <img src="https://pbs.twimg.com/profile_banners/82677289/1711985021/1500x500" alt="Julio M Cruz" style="max-width: 100%;">
-I'm a simple guy who loves programming. <br />
+I am a diligent software engineer and avid open source developer with over 7 years of experience.  <br />
 I am focused on building innovative and cutting-edge business solutions for clients around the world.<br />
+Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.<br />
 To communicate, use the button below<br />
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/dusanrexxa02)
