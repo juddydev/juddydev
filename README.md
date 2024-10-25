@@ -3,10 +3,6 @@
 I am a diligent software engineer and avid open source developer with over 7 years of experience.  <br />
 I am focused on building innovative and cutting-edge business solutions for clients around the world.<br />
 Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.<br />
-To communicate, use the button below<br />
-
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/dusanrexxa02)
-<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 **My main stack**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
