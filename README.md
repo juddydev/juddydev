@@ -1,6 +1,5 @@
 # 👋 Welcome to my github page! <br />
 
-<img src="https://pbs.twimg.com/profile_banners/82677289/1711985021/1500x500" alt="Julio M Cruz" style="max-width: 100%;">
 I am a diligent software engineer and avid open source developer with over 7 years of experience.  <br />
 I am focused on building innovative and cutting-edge business solutions for clients around the world.<br />
 Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.<br />
