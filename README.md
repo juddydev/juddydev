@@ -7,7 +7,7 @@ Unfortunately, many of what I do is not sourced, but feel free to take a look at
 ## Favorite Saying 👍
 
 ```rust
-/// Texora's motto
+/// My motto
 struct LinusTorvalds;
 
 impl LinusTorvalds {
