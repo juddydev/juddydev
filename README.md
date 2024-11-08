@@ -92,8 +92,8 @@ fn main() {
           <br>Laravel
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-          <br>WordPress
+          <img src="https://skillicons.dev/icons?i=swift" width="45" height="45" alt="rails" />
+          <br>Swift
         </td>
     </tr>
 </table>
