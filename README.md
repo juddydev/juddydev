@@ -1,2 +1,1 @@
-## For Eumaios
-My Discord Handle: Golden Block | GB-tech
+## 👋 Welcome to my github page!
